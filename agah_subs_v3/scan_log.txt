@@ -1,0 +1,8 @@
+[1/70] ✗ bbb.agah.com (DNS:178.252.181.138 HTTPS4:000 HTTP4:000)
+[2/70] ✗ newonlineime.agah.com (DNS:185.37.53.208 HTTPS4:000 HTTP4:000)
+[3/70] ✗ avalive.agah.com (DNS:ff595828f6544e48b241fcfd1ffff948.cname.arvancdn.ir. HTTPS4:404 HTTP4:404)
+[4/70] ✗ vpout.agah.com (DNS:213.109.147.64 HTTPS4:000 HTTP4:000)
+[5/70] ✗ jobs.agah.com (DNS:31.184.145.40 HTTPS4:000 HTTP4:000)
+[6/70] ✗ configs.agah.com (DNS:37.152.188.183 HTTPS4:404 HTTP4:308)
+[7/70] ✗ delivery.agah.com (DNS:185.37.54.45 HTTPS4:000 HTTP4:000)
+[8/70] ✓ online.agah.com (http 200, DNS:185.234.195.230)
