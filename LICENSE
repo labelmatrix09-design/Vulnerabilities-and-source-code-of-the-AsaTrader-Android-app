@@ -1,21 +1,39 @@
-MIT License
+linses_hackers
 
-Copyright (c) 2026 MESTERCOMPUTER
+PERSONAL OPEN-SOURCE, BLACK-BOX SECURITY TESTING AND DISCLOSURE LICENSE
+Copyright (c) [YEAR] IT_IRhackeyTEM
+Project website/blog: https://mestercomputer.blogix.ir/
+Contact: IT_IRhackeyTEM@proton.me
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Permission to Use
+Permission is granted, free of charge, to any person obtaining a copy of this software and its associated files to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the terms of this License.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+No separate permission or payment is required.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. Attribution
+This License does not require prominent credit to the author. However, any redistribution or substantial derivative work must retain this License and include at least one of the following contact references:
+
+https://mestercomputer.blogix.ir/
+IT_IRhackeyTEM@proton.me
+
+3. Black-Box Security Testing
+Black-box security testing of this software is permitted without access to its source code. This permission applies only to copies and systems that the tester is legally entitled to test.
+
+This License does not authorize testing third-party services, infrastructure, accounts, networks, or data, or bypassing access controls on systems not owned or controlled by the tester.
+
+4. Vulnerability Reporting and Disclosure
+Anyone may document, report, and publicly disclose vulnerabilities found in this software, including technical findings and proof-of-concept material, provided the disclosure does not expose private personal data, credentials, or unrelated third-party information.
+
+Advance approval from the author is not required for publication. Testers are encouraged, but not required by this License, to notify the author at the contact address above before publication.
+
+5. Restrictions
+You may not claim that the author endorses you or your modified version. You may not remove this License or misrepresent the origin of the original software. You are responsible for complying with applicable laws and for obtaining authorization before testing any system not under your control.
+
+6. Disclaimer of Warranty
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. Limitation of Liability
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE SOFTWARE or its use, modification, distribution, security testing, or disclosure.
+
+8. License
+This License applies to the software and materials expressly released under it. If any provision is unenforceable, the remaining provisions remain in effect.
