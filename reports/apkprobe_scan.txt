@@ -1,0 +1,25 @@
+package: com.agah.asatrader
+signing: v1 (JAR), v2+/v3 (APK Signing Block)
+findings: 11 (>= INFO)
+  [MEDIUM  ] Exported activity without permission: com.agah.trader.controller.user.LoginPage
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — activity com.agah.trader.controller.user.LoginPage exported=true, permission=none, intent-filters=1
+  [MEDIUM  ] Exported activity without permission: com.agah.trader.controller.fund.AppRedirectActivity
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — activity com.agah.trader.controller.fund.AppRedirectActivity exported=true, permission=none, intent-filters=2
+  [MEDIUM  ] Exported activity without permission: com.onesignal.NotificationOpenedActivityHMS
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — activity com.onesignal.NotificationOpenedActivityHMS exported=true, permission=none, intent-filters=1
+  [MEDIUM  ] Exported receiver without permission: com.onesignal.BootUpReceiver
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — receiver com.onesignal.BootUpReceiver exported=true, permission=none, intent-filters=1
+  [MEDIUM  ] Exported receiver without permission: com.onesignal.UpgradeReceiver
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — receiver com.onesignal.UpgradeReceiver exported=true, permission=none, intent-filters=1
+  [LOW     ] Exported activity without permission: com.canhub.cropper.CropImageActivity
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — activity com.canhub.cropper.CropImageActivity exported=true, permission=none, intent-filters=0
+  [LOW     ] Exported activity without permission: com.onesignal.NotificationOpenedReceiver
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — activity com.onesignal.NotificationOpenedReceiver exported=true, permission=none, intent-filters=0
+  [LOW     ] Exported receiver without permission: com.onesignal.NotificationDismissReceiver
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — receiver com.onesignal.NotificationDismissReceiver exported=true, permission=none, intent-filters=0
+  [LOW     ] Low minSdkVersion (16)
+             MASVS-RESILIENCE-1 / n/a — minSdkVersion=16
+  [INFO    ] Sensitive permission requested: android.permission.CAMERA
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — android.permission.CAMERA
+  [INFO    ] Sensitive permission requested: android.permission.WRITE_EXTERNAL_STORAGE
+             MASVS-PLATFORM-1 / MASTG-TEST-0024 — android.permission.WRITE_EXTERNAL_STORAGE
